@@ -25,25 +25,38 @@ data analysis.
 
 ## Main Projects
 
-1. **📦 [GourmetHub](https://gitlab.com/0xleonz/gourmethub)**  
+1. **📬 [collectiveVote](https://gitlab.com/0xleonz/gourmethub)**  
+   - Open-source online voting platform inspired by Helios  
+   - Event-driven architecture with RabbitMQ and Go workers  
+   - Anonymous, token-based ballot casting with verifiable, end-to-end
+   encrypted results  
+   - Audit logs and integrity proofs to ensure transparency and trust
+
+4. **🗄️ [DatosCDMX](https://gitlab.com/tu-usuario/tu-repo)**
+
+   - Este repositorio contiene aborda problemáticas ambientales, sociales y
+   administrativas en México, con un enfoque en el uso de datos, validación
+   estructural y análisis geoespacial.
+   - **cutzamalaSystem/**: Análisis del almacenamiento en el Sistema Cutzamala
+   (2020–2024).
+   - **parkBudget/**: Distribución presupuestal propuesta para parques en la
+   CDMX.
+   - **center/**: Determinación del centro geográfico de México según distintos
+   criterios.
+3. **📦 [GourmetHub](https://gitlab.com/0xleonz/gourmethub)**  
    - Real-time restaurant management system based on microservices  
    - Apache Kafka for processing orders and reservations at scale  
    - Designed for high scalability and performance monitoring  
    - Dockerized and deployable on Kubernetes (EKS/GKE) via Terraform
 
-2. **🔍 [FarmAnalizer](https://gitlab.com/0xleonz/farmanalizer)**  
+4. **🔍 [FarmAnalizer](https://gitlab.com/0xleonz/farmanalizer)**  
    - Tool to review and analyze farm operations data  
-   - Interactive dashboard for real-time monitoring of crop metrics, equipment status, and resource usage  
+   - Interactive dashboard for real-time monitoring of crop metrics, equipment
+   status, and resource usage  
    - Configurable alerts and reports for optimizing yield and reducing waste
-
-3. **📬 [collectiveVote](https://gitlab.com/0xleonz/gourmethub)**  
-   - Open-source online voting platform inspired by Helios  
-   - Event-driven architecture with RabbitMQ and Go workers  
-   - Anonymous, token-based ballot casting with verifiable, end-to-end encrypted results  
-   - Audit logs and integrity proofs to ensure transparency and trust
 
 ### 📫 **Contact**  
   - ✉️ 0xleonz@gmail.com  
-  - 🔗 [linkedin.com/in/edgarm](https://linkedin.com/in/edgarm)  
+  - 🔗 [linkedin.com/in/Leon M](https://www.linkedin.com/in/leon-m-1400bb335/)  
   - 🐙 [gitlab.com/0xleonz](https://gitlab.com/0xleonz)
 

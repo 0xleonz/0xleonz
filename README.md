@@ -25,14 +25,14 @@ data analysis.
 
 ## Main Projects
 
-1. **📬 [collectiveVote](https://gitlab.com/0xleonz/gourmethub)**  
+1. **📬 [collectiveVote](https://gitlab.com/0xleonz/collectivevote)**  
    - Open-source online voting platform inspired by Helios  
    - Event-driven architecture with RabbitMQ and Go workers  
    - Anonymous, token-based ballot casting with verifiable, end-to-end
    encrypted results  
    - Audit logs and integrity proofs to ensure transparency and trust
 
-4. **🗄️ [DatosCDMX](https://gitlab.com/tu-usuario/tu-repo)**
+4. **🗄️ [DatosCDMX](https://gitlab.com/0xleonz/datoscdmx)**
 
    - Este repositorio contiene aborda problemáticas ambientales, sociales y
    administrativas en México, con un enfoque en el uso de datos, validación
@@ -43,6 +43,7 @@ data analysis.
    CDMX.
    - **center/**: Determinación del centro geográfico de México según distintos
    criterios.
+
 3. **📦 [GourmetHub](https://gitlab.com/0xleonz/gourmethub)**  
    - Real-time restaurant management system based on microservices  
    - Apache Kafka for processing orders and reservations at scale  
